@@ -1,18 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Rafael%20Martins&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20Java%20%7C%20Spring%20Boot%20%26%20Sistemas%20Distribu%C3%ADdos&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Rafael%20Martins&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/raffadevs">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Java+%2B+Spring+Boot+3+%2B+Microsservi%C3%A7os;Sistemas+Distribu%C3%ADdos+%7C+Kafka+%2F+RabbitMQ+%2F+Redis;Vue.js+3+no+frontend+quando+precisa;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Homologa%C3%A7%C3%A3o+de+sistemas+de+tr%C3%A2nsito+eletr%C3%B4nico;Microsservi%C3%A7os+%7C+Kafka+%2F+PostgreSQL+%2F+Docker;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
 
 ### 👨‍💻 Sobre mim
 
-Sou desenvolvedor backend focado em **Java / Spring Boot 3**, construindo APIs e sistemas distribuídos com mensageria (Kafka, RabbitMQ), cache (Redis), containers (Docker) e boas práticas de arquitetura — Saga Pattern, Circuit Breaker, multi-tenancy, testes de integração com Testcontainers. Também atuo no frontend com **Vue.js 3** quando o projeto pede um fullstack.
+Sou desenvolvedor backend focado em **Java 21 / Spring Boot 3**, com ênfase em **microsserviços e arquitetura de sistemas**: APIs RESTful, mensageria (Kafka, RabbitMQ), cache (Redis), bancos SQL (PostgreSQL), containers (Docker) e boas práticas de arquitetura — Saga Pattern, Circuit Breaker, multi-tenancy, testes de integração com Testcontainers. Também atuo no frontend com **Vue.js 3** quando o projeto pede um fullstack.
 
 Estou construindo um [portfólio de projetos](https://github.com/raffadevs?tab=repositories) cobrindo desde CRUDs sólidos até sistemas com eventos, IA aplicada e agentes integrados via MCP.
+
+---
+
+### 💼 Experiência
+
+**Backend Developer | Java — Sistemas de Trânsito e Administrativos do Governo do Estado do Amazonas**
+`Spring Boot` · `Docker` · `Vue.js`
+
+- Atuação direta na **homologação de sistemas de talonário eletrônico** (emissão e triagem de autos de infração de trânsito), validando regras de negócio e integrações ponta a ponta antes da liberação em produção.
+- Trabalho em ambiente de alta criticidade, garantindo conformidade com regras de trânsito e estabilidade dos fluxos entre serviços e bancos relacionais.
+- Colaboração direta com times de backend (Spring Boot) e frontend (Vue.js) em sistemas administrativos usados por órgãos públicos.
 
 ---
 
@@ -24,11 +35,17 @@ Estou construindo um [portfólio de projetos](https://github.com/raffadevs?tab=r
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**🌱 Aprendendo atualmente:**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
