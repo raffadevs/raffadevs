@@ -55,18 +55,32 @@ Estou construindo um [portfólio de projetos](https://github.com/raffadevs?tab=r
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/raffadevs/encurtador-de-links">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffadevs&repo=encurtador-de-links&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffadevs&repo=encurtador-de-links&theme=tokyonight&hide_border=true" width="100%"/>
 </a>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/raffadevs/frota-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffadevs&repo=frota-system&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffadevs&repo=frota-system&theme=tokyonight&hide_border=true" width="100%"/>
 </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/raffadevs/financeiro-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffadevs&repo=financeiro-system&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffadevs&repo=financeiro-system&theme=tokyonight&hide_border=true" width="100%"/>
 </a>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/raffadevs/agendamento-saas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffadevs&repo=agendamento-saas&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raffadevs&repo=agendamento-saas&theme=tokyonight&hide_border=true" width="100%"/>
 </a>
+</td>
+</tr>
+</table>
 
 </div>
 
