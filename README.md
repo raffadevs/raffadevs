@@ -12,7 +12,7 @@
 
 Sou desenvolvedor backend focado em **Java 21 / Spring Boot 3**, com ênfase em **microsserviços e arquitetura de sistemas**: APIs RESTful, mensageria (Kafka, RabbitMQ), cache (Redis), bancos SQL (PostgreSQL), containers (Docker) e boas práticas de arquitetura — Saga Pattern, Circuit Breaker, multi-tenancy, testes de integração com Testcontainers. Também atuo no frontend com **Vue.js 3** quando o projeto pede um fullstack.
 
-Estou construindo um [portfólio de projetos](https://github.com/raffadevs?tab=repositories) cobrindo desde CRUDs sólidos até sistemas com eventos, IA aplicada e agentes integrados via MCP.
+Estou construindo um [portfólio de projetos](https://github.com/raffadevs?tab=repositories) cobrindo desde CRUDs sólidos até sistemas com eventos, IA aplicada e agentes integrados via MCP — acompanhe o progresso no [Roadmap do Portfólio](https://github.com/users/raffadevs/projects/1).
 
 ---
 
